@@ -128,7 +128,6 @@ export {
 export { default as Header } from './components/Header';
 
 // Helpers
-export { default as State } from './components/State';
 export { default as InlineElements } from './components/InlineElements';
 
 export {
